@@ -1,0 +1,6 @@
+#
+# print("auron")
+#
+print("play")
+
+
