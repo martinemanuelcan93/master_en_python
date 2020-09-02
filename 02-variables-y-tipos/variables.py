@@ -4,7 +4,7 @@ muchas variables y que cada una tenga un dato
 distinto"""
 
 texto = "master en python"
-texto2 = "con martincito piola"
+texto2 = "martin"
 print(texto)
 print(texto2)
 
